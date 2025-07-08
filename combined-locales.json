@@ -3123,6 +3123,17 @@
         "ru": "Поворот\nоттенка",
         "de": "Farbton Rotation"
     },
+    "options_video_sharpness": {
+        "en": "Sharpness",
+        "de-de": "Schärfe",
+        "es": "Nitidez",
+        "it": "Nitidezza",
+        "ja": "シャープネス",
+        "ms": "Ketajaman",
+        "pt-br": "Nitidez",
+        "ru": "Резкость",
+        "de": "Schärfe"
+    },
     "options_video_daltonizer_type": {
         "en": "Color blindness correction",
         "de-de": "Korrekturen von Farbenblindheit",

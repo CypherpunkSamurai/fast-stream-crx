@@ -851,6 +851,9 @@
     "options_video_hue": {
         "message": "Hue Rotate"
     },
+    "options_video_sharpness": {
+        "message": "Sharpness"
+    },
     "options_video_daltonizer_type": {
         "message": "Color blindness correction"
     },

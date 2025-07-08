@@ -849,7 +849,10 @@
         "message": "Inverti"
     },
     "options_video_hue": {
-        "message": "Ruotazione della Tonalità"
+        "message": "Tonalità"
+    },
+    "options_video_sharpness": {
+        "message": "Nitidezza"
     },
     "options_video_daltonizer_type": {
         "message": "Correzione per il daltonismo"

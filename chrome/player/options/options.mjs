@@ -143,6 +143,11 @@ async function loadOptions(newOptions) {
     numberInput.value = val + unit;
   });
 
+  // Initialize videoSharpness to 0 if it's undefined
+  if (Options.videoSharpness === undefined) {
+    Options.videoSharpness = 0;
+  }
+
   autoEnableURLSInput.value = Options.autoEnableURLs.join('\n');
 
   if (Options.dev) {

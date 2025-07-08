@@ -30,6 +30,8 @@ export const DefaultOptions = {
   videoSepia: 0,
   videoInvert: 0,
   videoHueRotate: 0,
+  videoSharpness: 0,
+  videoSharpness: 0,
   videoDaltonizerType: DaltonizerTypes.NONE,
   videoDaltonizerStrength: 1,
   videoZoom: 1,
